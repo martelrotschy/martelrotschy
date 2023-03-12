@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React, Next.js and HTMX**
 
-- 💬 Ask me about **LAMP, C# WinForms, Information Security, Networking and IT Infrastructure**
+- 💬 Ask me about **LAMP, C# WinForms, SQL, Information Security, Networking and IT Infrastructure**
 
 - 📫 How to reach me **martelrotschy@gmail.com**
 

@@ -5,7 +5,8 @@
 
 - 🔭 I’m currently working on [go_server (a lightweight HTTP server)](https://github.com/farglabs/go_server)
 
-- 🌱 I’m currently learning **React, Next.js and HTMX**
+- 🌱 I’m currently learning **Google GKE**
+<!-- - 🌱 I’m currently learning **React, Next.js and HTMX** -->
 
 - 💬 Ask me about **LAMP, C# WinForms, SQL, Information Security, Networking and IT Infrastructure**
 

@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **Google GKE**
 <!-- - 🌱 I’m currently learning **React, Next.js and HTMX** -->
 
-- 💬 Ask me about **LAMP, C# WinForms, SQL, Information Security, Networking and IT Infrastructure**
+- 💬 Ask me about **LAMP, C# WinForms, SQL, Information Security, Networking and IT Infrastructure; I also know a thing or two about property investment and farming ;)**
 
 - 📫 How to reach me **martelrotschy@gmail.com**
 

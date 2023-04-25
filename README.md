@@ -4,8 +4,9 @@
 <h3 align="center">A full-stack developer with a wide array of cloud, infrastructure and security experience</h3>
 
 - 🔭 I’m currently working on [go_server (a lightweight HTTP server)](https://github.com/farglabs/go_server)
-
+<!--
 - 🌱 I’m currently learning **Google GKE**
+-->
 <!-- - 🌱 I’m currently learning **React, Next.js and HTMX** -->
 
 - 💬 Ask me about **LAMP, C# WinForms, SQL, Information Security, Networking and IT Infrastructure; I also know a thing or two about property investment and farming ;)**

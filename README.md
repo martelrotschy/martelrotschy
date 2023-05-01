@@ -2,8 +2,9 @@
 
 <h1 align="center">Hi 👋, I'm Martel Rotschy</h1>
 <h3 align="center">A full-stack developer with a wide array of cloud, infrastructure and security experience</h3>
-
+<!--
 - 🔭 I’m currently working on [go_server (a lightweight HTTP server)](https://github.com/farglabs/go_server)
+-->
 <!--
 - 🌱 I’m currently learning **Google GKE**
 -->

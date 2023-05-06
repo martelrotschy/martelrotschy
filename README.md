@@ -5,6 +5,8 @@
 <!--
 - 🔭 I’m currently working on [go_server (a lightweight HTTP server)](https://github.com/farglabs/go_server)
 -->
+
+- 👯 I’m looking to collaborate on **any agri-science software startup**
 <!--
 - 🌱 I’m currently learning **Google GKE**
 -->

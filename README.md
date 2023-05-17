@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **GoLang, LAMP, C# .Net WinForms, SQL, Information Security, Networking and IT Infrastructure**
 
-- 📫 How to reach me **martelrotschy@gmail.com**
+- 📫 Reach me at **martelrotschy@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

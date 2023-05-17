@@ -13,7 +13,7 @@
 -->
 <!-- - 🌱 I’m currently learning **React, Next.js and HTMX** -->
 
-- 💬 Ask me about **LAMP, C# .Net WinForms, SQL, Information Security, Networking and IT Infrastructure**
+- 💬 Ask me about **GoLang, LAMP, C# .Net WinForms, SQL, Information Security, Networking and IT Infrastructure**
 
 - 📫 How to reach me **martelrotschy@gmail.com**
 

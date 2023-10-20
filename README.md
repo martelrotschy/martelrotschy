@@ -1,7 +1,7 @@
 [![MasterHead](https://rotschy.us/top.jpg?source=github_martelrotschy)](https://www.linkedin.com/in/martelr/)
 
 <h2 align="center">Hey there 👋, I'm Martel</h2>
-<h3 align="center">A full-stack developer with a broad range of cloud, infrastructure and security experience</h3>
+<h3 align="center">A software engineer and IT professional with a broad range of cloud, infrastructure and security experience</h3>
 <!--
 - 🔭 I’m currently working on [go_server (a lightweight HTTP server)](https://github.com/farglabs/go_server)
 -->

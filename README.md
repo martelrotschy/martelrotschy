@@ -1,4 +1,4 @@
-[![MasterHead](https://rotschy.us/top.jpg?source=github_martelrotschy)](https://www.linkedin.com/in/martelr/)
+[![MasterHead](https://media.licdn.com/dms/image/D5616AQFVDaoS6o7a0Q/profile-displaybackgroundimage-shrink_200_800/0/1671261017341?e=2147483647&v=beta&t=chjvBOAmdGYL6lnIv_qXNQP28qz3NtGZw13zaI_q_D0)](https://www.linkedin.com/in/martelr/)
 
 <h2 align="center">Hey there 👋, I'm Martel</h2>
 <h3 align="center">A software engineer and IT professional with a broad range of cloud, infrastructure and security experience</h3>

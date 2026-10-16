@@ -1,7 +1,7 @@
 <!-- [![MasterHead](https://media.licdn.com/dms/image/D5616AQFVDaoS6o7a0Q/profile-displaybackgroundimage-shrink_200_800/0/1671261017341?e=2147483647&v=beta&t=chjvBOAmdGYL6lnIv_qXNQP28qz3NtGZw13zaI_q_D0)](https://www.linkedin.com/in/martelr/) -->
 
 <h2 align="center">Hey there 👋, I'm Martel</h2>
-<h3 align="center">An IT professional with decades of experience in cloud, infrastructure, software development, governance and security</h3>
+<h3 align="center">An IT pro with 20yr+ of experience in cloud, infrastructure, software development, governance and security</h3>
 <!--
 - 🔭 I’m currently working on [go_server (a lightweight HTTP server)](https://github.com/farglabs/go_server)
 -->

@@ -13,7 +13,7 @@
 -->
 <!-- - 🌱 I’m currently learning **React, Next.js and HTMX** -->
 
-- 💬 Ask me about **GoLang, LAMP, C# .Net, SQL, Information Security, Networking or IT Infrastructure**
+- 💬 Ask me about **Enterprise AI Governance, Information Security, Networking or IT Infrastructure**
 
 - 📫 Reach me at **martelrotschy@gmail.com**
 
